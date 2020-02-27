@@ -15,6 +15,7 @@ For more information on the types of widgets that can exist in a Card, check the
 Sending a simple text message is... simple! You can include line breaks and text formating using Hangout Chats markdown style syntax.
 
 ```powershell
+Import-Module -name GHCWebhook
 $URI = "https://chat.googleapis.com/..."
 
 $Text = "*Alert! Please read.*

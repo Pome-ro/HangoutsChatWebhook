@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Basic Commands
-=======
->>>>>>> 2b5f7d83ce8452d1abd77c6bdf1699d35e2baff5
 . $PSScriptRoot\New-GHCTextMessage.ps1
 . $PSScriptRoot\Send-GHCWebhookMessage.ps1
 
